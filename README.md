@@ -1,2 +1,1 @@
-
-This is a simple AI program
+Data science hub 
