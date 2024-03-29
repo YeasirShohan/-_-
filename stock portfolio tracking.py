@@ -1,3 +1,10 @@
+"""
+Name: Yeasir Arafat Shohan
+Id: CA/CP/12437
+Task 03: Stock portfolio tracking"""
+
+"""A simple Stock portfolio tracking, which was build with Python."""
+
 import requests
 
 class StockPortfolio:
