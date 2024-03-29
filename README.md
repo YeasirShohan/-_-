@@ -1,1 +1,1 @@
-Data science hub 
+Python mini projects
