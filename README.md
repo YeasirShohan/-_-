@@ -1,1 +1,1 @@
-Python mini projects
+CodeAlpha internship tasks Repositories 
